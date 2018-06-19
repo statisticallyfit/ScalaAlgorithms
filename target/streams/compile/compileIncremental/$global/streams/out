@@ -1,0 +1,46 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/scala/documentation/GraphDoc.scala, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes/documentation/GraphDocumentation$.class, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes/documentation/GraphTestingIdeas.class, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes/documentation/GraphTestingIdeas$.class, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes/documentation/GraphDocumentation.class, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes/edu/princeton/cs/algs4/Arbitrage.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/scala/documentation/GraphDoc.scala, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/scala/documentation/GraphDoc.scala, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/scala/documentation/GraphDoc.scala, /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source and 1 Java source to /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler b5758a8, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-language:_[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/jdk1.8.0_74/jre/lib/resources.jar:/opt/jdk1.8.0_74/jre/lib/rt.jar:/opt/jdk1.8.0_74/jre/lib/sunrsasign.jar:/opt/jdk1.8.0_74/jre/lib/jsse.jar:/opt/jdk1.8.0_74/jre/lib/jce.jar:/opt/jdk1.8.0_74/jre/lib/charsets.jar:/opt/jdk1.8.0_74/jre/lib/jfr.jar:/opt/jdk1.8.0_74/jre/classes:/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/project/.ivy/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/target/scala-2.11/classes:/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/project/.ivy/cache/org.scoverage/scalac-scoverage-runtime_2.11/jars/scalac-scoverage-runtime_2.11-1.1.0.jar:/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/project/.ivy/cache/org.scoverage/scalac-scoverage-plugin_2.11/jars/scalac-scoverage-plugin_2.11-1.1.0.jar:/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/project/.ivy/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.645499589 s[0m
+[0m[[0mdebug[0m] [0mJava compilation took 2.678030925 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.128318621 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 2.821697213 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java)[0m
+[0m[[0mdebug[0m] [0mThe /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	buildArbitrageNetwork.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /datascience/projects/statisticallyfit/github/learningalgorithms/scalgos/src/main/java/edu/princeton/cs/algs4/Arbitrage.java[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
